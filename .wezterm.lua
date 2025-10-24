@@ -10,7 +10,7 @@ config.color_scheme = "Abernathy"
 -- for more https://wezterm.org/colorschemes/a/index.html
 
 -- Changing the default shell to pwsh instead of cmd
-config.default_prog = { "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.2.0_x64__8wekyb3d8bbwe\\pwsh.exe" }
+config.default_prog = { "C:\\Program Files\\WindowsApps\\Microsoft.PowerShell_7.5.4.0_x64__8wekyb3d8bbwe\\pwsh.exe" }
 
 -- Rar Key Binds
 config.keys = {
